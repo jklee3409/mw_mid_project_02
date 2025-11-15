@@ -35,8 +35,8 @@ public class MainActivity extends AppCompatActivity {
     private SwipeRefreshLayout swipeRefreshLayout;
     private EditText searchEdit;
     private Spinner sortSpinner;
-//    private static final String API_URL = "http://10.0.2.2:8000/api_root/Post/";
-    private static final String API_URL = "https://jklee3409.pythonanywhere.com/api_root/Post/";
+    private static final String API_URL = "http://10.0.2.2:8000/api_root/Post/";
+//    private static final String API_URL = "https://jklee3409.pythonanywhere.com/api_root/Post/";
     private static final String TOKEN = "1c5fe424c16b5ffabcaa038d934625e3573cc4a499ffedce3bf7313fcda4b7d8";
 
     @Override

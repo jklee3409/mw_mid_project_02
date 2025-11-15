@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 SECRET_KEY = 'django-insecure-aq+^ikcygw%mr8ns&m)#6j=8r@oauts@#fx3ls3a-+2k1zg@9-'
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '10.0.2.2', '.pythonanywhere.com', 'desktop-ul2o17q.davolink']
 
